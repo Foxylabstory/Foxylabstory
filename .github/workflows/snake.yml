@@ -29,9 +29,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-light
-      # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
-
+      
       # Push the changes
       - name: Push changes
         uses: ad-m/github-push-action@master

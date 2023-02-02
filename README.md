@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Foxylabstory" target="_blank">Rushan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Automatization engineer, Web developper from Russia 🇷🇺 , fun of traveling and business trips</h3>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Foxylabstory/Foxylabstory/blob/output/github-contribution-grid-snake.gif)
+
 
 <!--
 **Foxylabstory/Foxylabstory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

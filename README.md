@@ -6,9 +6,16 @@
 
 - `whoami` Web developer on oil industry;
 
+- `I’m currently working` on TouchJS, it's web interface for control module DEL-150, which show
+  different drilling parameters, like a weight on the hook or tong torque on rotary table. Main
+  benefit, that it can work everywhere, so my company reduce the cost explosionproof screen (without
+  Windows OS) and get additional profit!
+
 - `uptime` 37 years;
 
-- `I’m currently working` on TouchJS, it's web interface for control module DEL-150, which show different drilling parameters, like a weight on the hook or tong torque on rotary table. Main benefit, that it can work everywhere, so my company reduce the cost explosionproof screen (without Windows OS) and get additional profit! 
+- `English` B2 (IELTS 5.5);
+
+- `Russian` Native.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -27,13 +34,19 @@
   </a>
 </p>
 
-
 <h3 align="left">Technologies I am familiar with:</h3>
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="devicon" height="50" width="50" />
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="devicon" height="50" width="50" />
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="devicon" height="50" width="50" />
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="devicon" height="50" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="devicon" height="50" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="devicon" height="50" width="50" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="devicon" height="50" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="devicon" height="50" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="devicon" height="50" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="devicon" height="50" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="devicon" height="50" width="50" />
+
 <!--
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="devicon" height="50" width="50" />
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="devicon" height="50" width="50" />

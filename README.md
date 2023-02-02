@@ -14,16 +14,16 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/rushan-shakirzyanov/" target="_blank"">
-		<img align="center" src="images/contacts/linkedin.svg" alt="linkedin" height="40" width="40" />
+		<img align="center" src="./images/contacts/linkedin.svg" alt="linkedin" height="40" width="40" />
 	</a>
 	<a href="https://www.instagram.com/foxylabstory/" target="_blank"">
-		<img align="center" src="images/contacts/instagram.svg" alt="instagram" height="40" width="40" />
+		<img align="center" src="./images/contacts/instagram.svg" alt="instagram" height="40" width="40" />
 	</a>
 	<a href="https://t.me/Foxylabstory" target="_blank">
-		<img align="center" src="images/contacts/telegram.svg" alt="telegram" height="40" width="40" />
+		<img align="center" src="./images/contacts/telegram.svg" alt="telegram" height="40" width="40" />
 	</a>
 	<a href="mailto:rushan.shakirzianov@gmail.com" target="_blank">
-		<img align="center" src="images/contacts/email.svg" alt="email" height="40" width="40" />
+		<img align="center" src="./images/contacts/email.svg" alt="email" height="40" width="40" />
   </a>
 </p>
 

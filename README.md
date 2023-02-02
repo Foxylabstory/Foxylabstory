@@ -47,6 +47,9 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="devicon" height="50" width="50" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="devicon" height="50" width="50" />
 
+<h3 align="left">Would you like this joke?</h3>
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<p align="left">If you want one more, feel frtee to update a tab (F5) for refresh joke</p>
 <!-- https://devicon.dev/ icon find tool -->
 <!--
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="devicon" height="50" width="50" />

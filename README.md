@@ -1,4 +1,4 @@
-<h1 align="center">Nice to meet YOU, I'm <a href="https://foxylabstory.nomoredomains.sbs/" target="_blank">Rushan</a> 
+<h1 align="center">Nice to meet You, I'm <a href="https://foxylabstory.nomoredomains.sbs/" target="_blank">Rushan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Automatization engineer, Web developper from Russia 🇷🇺 , fun of traveling and business trips</h3>
 <p align="center"><a align="center" href="https://github.com/Foxylabstory" target="_blank"><img src="https://github.com/Foxylabstory/Foxylabstory/blob/output/github-contribution-grid-snake.gif"/></a></p>

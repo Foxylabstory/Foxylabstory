@@ -1,17 +1,15 @@
 <h1 align="center">Nice to meet You, I'm <a href="https://foxylabstory.nomoredomains.sbs/" target="_blank">Rushan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Automatization engineer, Web developper from Russia 🇷🇺</h3>
+<h3 align="center">Automatization engineer, Web developer from Russia 🇷🇺</h3>
 <p align="center"><a align="center" href="https://github.com/Foxylabstory" target="_blank"><img src="https://github.com/Foxylabstory/Foxylabstory/blob/output/github-contribution-grid-snake.gif"/></a></p>
 <!-- Instructions to get a snake: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 
-- `who am i` Web developer on oil industry;
+- `who am i` Web developer in the oil industry;
 
 - `I’m currently working` on TouchJS, it's web interface for control module DEL-150, which show
   different drilling parameters, like a weight on the hook or tong torque on rotary table. Main
   benefit, that it can work everywhere, so my company reduce the cost explosionproof screen (without
   Windows OS) and get additional profit!
-
-- `uptime` 37 years;
 
 - `English` B2 (IELTS 5.5);
 

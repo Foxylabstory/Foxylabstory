@@ -5,9 +5,9 @@
 
 - `who am i` Web developer in the oil industry;
 
-- `I’m currently working` on new product. It's interface for getting data from DB and show charts of power, energy and other datas...
+- `I’m currently working` on new product. It's interface for getting data from DB directly and show charts of power, energy and other datas...
   
-- `Charts` has done also! It is a web part of desctop app wich working onle for Windows OS, now you can see charts everywhere, Android, Linux, iOS etc.
+- `Charts` has done also! It is a web part of desctop app wich working only for Windows OS, now you can see charts everywhere, Android, Linux, iOS etc.
   This web app has adaptive and modern designe, feel free to <a href="http://tcn-test.pla.ru:17997/web-debug/" target="_blank">touch it</a>
 
 - `Touch` has done! it's web interface for control module DEL-150, which show
